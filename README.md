@@ -4,3 +4,15 @@ Window program for searching for secret keys (passwords, cryptographic keys, etc
 The interface provides the ability to configure search parameters, create a simple password dictionary, and sort the list of found results. Analysis is performed using one of three algorithms: word entropy and the PasswordMeter module, a password dictionary file, and an LSTM neural network.
 
 For more detailed results of the program's operation, please refer to the attached thesis file.
+
+-----------------------------------------------------------------------------------------------------------
+
+Оконная программа для поиска секретных ключей (паролей, криптографических ключей и др.) посредством анализа текстовых файлов. Версия библиотек актуальна на 01.06.2023.
+
+Интерфейс предоставляет позможность настраивать параметры поиска, создавать простой словарь паролей и сортировать список найденных результатов. Анализ происходит с помощью одного из трех алгоритмов - энтропии слова и модуля PasswordMeter, файла со словарем паролей и нейросети LSTM. Программа может обрабатывать форматы .txt, .docx, .doc, .xlsx, .xls, .config, .ini, .xml, .yaml, .log.
+
+Более подробные результаты работы программы можете прочитать в приложенном файле ВКР.
+
+![image](https://github.com/Adm178/PassHunter/assets/38979325/388aa791-016f-4f40-813b-2732e1797139)
+![image](https://github.com/Adm178/PassHunter/assets/38979325/4a7d9dbc-52a1-46b1-a344-ec72abe836e3)
+![image](https://github.com/Adm178/PassHunter/assets/38979325/d9c953e9-9960-4896-b158-e1f77ea163bd)
