@@ -13,6 +13,6 @@ For more detailed results of the program's operation, please refer to the attach
 
 Более подробные результаты работы программы можете прочитать в приложенном файле ВКР.
 
-![image](https://github.com/Adm178/PassHunter/assets/38979325/388aa791-016f-4f40-813b-2732e1797139)
-![image](https://github.com/Adm178/PassHunter/assets/38979325/4a7d9dbc-52a1-46b1-a344-ec72abe836e3)
-![image](https://github.com/Adm178/PassHunter/assets/38979325/d9c953e9-9960-4896-b158-e1f77ea163bd)
+<img src="https://github.com/Adm178/PassHunter/assets/38979325/388aa791-016f-4f40-813b-2732e1797139" width="700">
+<img src="https://github.com/Adm178/PassHunter/assets/38979325/4a7d9dbc-52a1-46b1-a344-ec72abe836e3" width="537">
+<img src="https://github.com/Adm178/PassHunter/assets/38979325/d9c953e9-9960-4896-b158-e1f77ea163bd" width="400">
